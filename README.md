@@ -93,3 +93,38 @@ binary
 get payload.exe c:\payload.exe
 bye
 ```
+##TFTP
+####Server Side
+####Client side
+
+##Samba
+####Server Side
+####Client side
+
+##WebDAV
+####Server Side
+####Client side
+
+##VBScript/JScript
+####Server Side
+####Client side
+
+##Windows Host Script
+####Server Side
+####Client side
+
+##MSHTA
+####Server Side
+####Client side
+
+##NSLOOKUP
+####Server Side
+####Client side
+
+##PowerShell
+####Server Side
+####Client side
+
+##Bitsadmin
+####Server Side
+####Client side
