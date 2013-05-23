@@ -1,6 +1,11 @@
 WindowsUploadToolkit # PHDAYS |||
 ====================
 
+**Presentation:** https://docs.google.com/file/d/0BzcU-pklgQ9LeEVRRDc3dmdIdUk/edit?usp=sharing <br>
+**DEMO nslookup:** https://docs.google.com/file/d/0BzcU-pklgQ9LX1hwSUlCWGw4dTg/edit?usp=sharing <br>
+**DEMO any2batwsf:** https://docs.google.com/file/d/0BzcU-pklgQ9LM2Jia21jd1dqbEU/edit?usp=sharing 
+
+
 ###Agenda
 * [Firewall egress filtering](#firewall-egress-filtering)
 * [Telnet](#telnet)
